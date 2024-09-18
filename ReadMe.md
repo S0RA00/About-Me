@@ -9,6 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SORA00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SORA00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66eaf4c0b32bbae9e2e9f56b?variant=dark)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SORA00&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
